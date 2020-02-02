@@ -2,8 +2,8 @@
 - 老王VPN https://apkgk.com/com.findtheway
 - 赛风 https://apkgk.com/com.vpn.psiphon.vpn
 
-### SS SSR:
-- [Free SSR SS VPN](https://github.com/HaoleiQin/Over-The-Wall/blob/master/Wiki.md)
+### 推荐机场:
+- [Fox 阿狸云](https://fox-c.top/auth/register?code=xVDy)
 
 ### Tools:
 
